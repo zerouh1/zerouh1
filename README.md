@@ -28,8 +28,9 @@ I am an enthusiastic coder with a deep passion for **web development**, **machin
     alt="Bootstrap" />
   </div>
 
-  ## 🔗 Connect with Me
+## 🔗 Connect with Me
   -[LinkedIn](https://www.linkedin.com/in/sarthak-khandelwal-8b5701282/)
-  *I'm open to connecting or collaborating on any project—feel free to reach out!*
+
+*I'm open to connecting or collaborating on any project—feel free to reach out!*
   
   
